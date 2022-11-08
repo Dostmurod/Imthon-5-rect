@@ -1,0 +1,19 @@
+.tabMenu ul,li,a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+
+
+}
+.tabMenu svg{
+    margin: 5px;
+}
+.hr{
+    width: 100%;
+    height: 1px;
+    border: 1px solid rgb(68, 68, 68);
+}
